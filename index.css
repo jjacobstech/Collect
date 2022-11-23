@@ -17,3 +17,15 @@ color: black;
   height: 600px;
   border-radius: 30px;
  }
+ #question-mark {
+  display: block;
+  position: absolute;
+  margin-top: 40%;
+  margin-left: 24%;
+ }
+ #question-mark-2{
+  display: block;
+  position: absolute;
+  margin-top: 38%;
+  margin-right: 24%;
+ }

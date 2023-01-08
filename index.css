@@ -29,3 +29,7 @@ color: black;
   margin-top: 38%;
   margin-right: 24%;
  }
+#bottom-link a{
+  color: rgb(50, 168, 76);
+  text-decoration: none;
+}
